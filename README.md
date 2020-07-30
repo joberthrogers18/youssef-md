@@ -9,7 +9,3 @@
 <a href="https://t.me/youssef_md">
   <img align="left" alt="Youssef Telegram" height="40px" src="https://i.imgur.com/bBW2nBp.png" />
 </a>
-
-<br/><br/>
-
-[![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=youssef-md&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
