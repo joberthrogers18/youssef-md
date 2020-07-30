@@ -1,16 +1,15 @@
-### Hi there 👋
+# Youssef Muhamad 👋
 
-<!--
-**youssef-md/youssef-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Youssef Logo" height="40px" src="https://i.imgur.com/LLpAolU.png" />
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/youssef-muhamad-6bb940159/">
+  <img align="left" alt="Youssef LinkedIn" height="40px" src="https://i.imgur.com/83bVZIR.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://t.me/youssef_md">
+  <img align="left" alt="Youssef Telegram" height="40px" src="https://i.imgur.com/JuJcisl.png" />
+</a>
+
+<br/><br/>
+
+[![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=youssef-md&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
